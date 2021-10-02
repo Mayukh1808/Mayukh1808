@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayukh</h1>
-<h3 align="center">A RC Hobbyist, Passionate Embedded Developer, Part-time frontend developer</h3>
-<img align="right" src="https://user-images.githubusercontent.com/69788740/135730247-0248a57d-b70d-403c-85af-940cc9fa3a08.gif" width="400">
+<h3 align="center">A RC Hobbyist, Passionate Embedded Developer, Part-time frontend developer</h3><img align="right" src="https://user-images.githubusercontent.com/69788740/135730247-0248a57d-b70d-403c-85af-940cc9fa3a08.gif" width="400" alt="135730247-0248a57d-b70d-403c-85af-940cc9fa3a08-removebg-preview" border="0">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukh1808&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh1808" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh1808" alt="mayukh1808" /></a> </p>
 
