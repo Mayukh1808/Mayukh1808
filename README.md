@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukh1808&show_icons=true&locale=en" alt="mayukh1808" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayukh1808&" alt="mayukh1808" /></p>
-![](https://activity-graph.herokuapp.com/graph?username=Mayukh1808&theme=dracula)
