@@ -2,6 +2,7 @@
 <h3 align="center">A RC Hobbyist, Passionate Embedded Developer, Part-time frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukh1808&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh1808" /> </p>
+(img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1tXUjIdkDpuBzA5OCSo9MuS_3R-JK7FP1/view")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh1808" alt="mayukh1808" /></a> </p>
 
