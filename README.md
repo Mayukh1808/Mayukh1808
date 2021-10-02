@@ -19,9 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mayukhb95501568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayukhb95501568" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayukh-bhattacharya-8a29921b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayukh-bhattacharya-8a29921b1" height="30" width="40" /></a>
-<a href="https://fb.com/mayukhbhatt.1808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayukhbhatt.1808" height="30" width="40" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/mayukh-bhattacharya-8a29921b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a target="_blank"href="https://www.facebook.com/mayukhbhatt.1808/"><img src="https://img.shields.io/badge/-FACEBOOK-0066ff?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a target="_blank"href="https://www.instagram.com/mayukh_1808/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a href="https://twitter.com/MayukhB95501568"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?&style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a href="mailto:mayukh1978@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
