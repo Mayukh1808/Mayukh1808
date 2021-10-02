@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayukh</h1>
 <h3 align="center">A RC Hobbyist, Passionate Embedded Developer, Part-time frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukh1808&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh1808" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh1808" alt="mayukh1808" /></a> </p><img align="right" src="https://user-images.githubusercontent.com/69788740/135730247-0248a57d-b70d-403c-85af-940cc9fa3a08.gif" width="300" alt="135730247-0248a57d-b70d-403c-85af-940cc9fa3a08-removebg-preview" border="0">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh1808" alt="mayukh1808" /></a> </p><img align="right" src="https://user-images.githubusercontent.com/69788740/135730247-0248a57d-b70d-403c-85af-940cc9fa3a08.gif" width="500" alt="135730247-0248a57d-b70d-403c-85af-940cc9fa3a08-removebg-preview" border="0">
 
 - 🔭 I’m currently working on **A health monitoring smart Mask**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://novoresume.com/editor/resume/1627cfb0-b60d-11eb-9d14-c7d1805b9d4e](https://novoresume.com/editor/resume/1627cfb0-b60d-11eb-9d14-c7d1805b9d4e)
 
-- ⚡ Fun fact **Love to take tension😂😂😂😂**
+- ⚡ Fun fact **Overthinker😂😂😂😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
