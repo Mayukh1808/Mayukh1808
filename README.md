@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayukh</h1>
 <h3 align="center">A RC Hobbyist, Passionate Embedded Developer, Part-time frontend developer</h3>
-img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69788740/135730247-0248a57d-b70d-403c-85af-940cc9fa3a08.gif")
+<img src="https://user-images.githubusercontent.com/69788740/135730247-0248a57d-b70d-403c-85af-940cc9fa3a08.gif" width="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukh1808&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh1808" /> </p>
 
 
