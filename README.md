@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayukh</h1>
 <h3 align="center">A RC Hobbyist, Passionate Embedded Developer, Part-time frontend developer</h3>
-![Alt Text](https://dribbble.com/shots/15431837-Silly-Animated-Avatar| align="right")
+![Alt Text](C:\Users\KIIT\Downloads\image_processing20210406-10724-181myln.gif| align="right")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh1808" alt="mayukh1808" /></a> </p>
 
