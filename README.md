@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayukh</h1>
 <h3 align="center">A RC Hobbyist, Passionate Embedded Developer, Part-time frontend developer</h3>
-<img align="right" src="https://dribbble.com/shots/15431837-Silly-Animated-Avatar" 
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15431837-Silly-Animated-Avatar")
+<img align="right" src="https://dribbble.com/shots/15431837-Silly-Animated-Avatar"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh1808" alt="mayukh1808" /></a> </p>
 
