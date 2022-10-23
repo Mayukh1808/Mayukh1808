@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mayukh</h1>
-<h1 align="center">3rd year undergrad at KIIT university|A RC Hobbyist|Passionate Embedded Developer|Part-time frontend developer</h1>
+<h1 align="center">4th year undergrad at KIIT university|A RC Hobbyist|Passionate Embedded Developer|Part-time frontend developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukh1808&label=Profile%20views&color=0e75b6&style=flat" alt="mayukh1808" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayukh1808" alt="mayukh1808" /></a> </p><img align="right" src="https://user-images.githubusercontent.com/69788740/135730247-0248a57d-b70d-403c-85af-940cc9fa3a08.gif" width="500" alt="135730247-0248a57d-b70d-403c-85af-940cc9fa3a08-removebg-preview" border="0">
+
+- 🚀 I'm currently working as a software engineer at **[CGI](https://www.cgi.com/en)**
 
 - 🔭 I’m currently working on **A health monitoring smart Mask**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://mayukh1808.github.io/My_Repository/](https://mayukh1808.github.io/My_Repository/)
+- 👨‍💻 All of my projects are available [here](https://mayukh1808.github.io/My_Repository/)
 
 - 💬 Ask me about **Embedded Systems , Embebbed C**
 
